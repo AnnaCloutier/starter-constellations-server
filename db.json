@@ -43,13 +43,6 @@
       "quadrant": "SQ1"
     },
     {
-      "id": "ISlkF4G",
-      "name": "Leo",
-      "meaning": "Lion",
-      "starsWithPlanets": 19,
-      "quadrant": "NQ2"
-    },
-    {
       "id": "n2OEOzp",
       "name": "Libra",
       "meaning": "Balance",
@@ -93,10 +86,48 @@
     },
     {
       "id": "dFBbdkr",
-      "name": "Vela",
-      "meaning": "Sails",
+      "name": "Triangulum",
+      "meaning": "the Triangle",
+      "starsWithPlanets": 3,
+      "quadrant": "NQ1"
+    },
+    {
+      "name": "Ara",
+      "meaning": "Altar",
       "starsWithPlanets": 7,
-      "quadrant": "SQ2"
+      "quadrant": "SQ3",
+      "id": "3wai7pw"
+    },
+    {
+      "name": "Leo",
+      "meaning": "Lion",
+      "starsWithPlanets": 19,
+      "quadrant": "NQ2",
+      "id": "GgZlssn"
+    },
+    {
+      "name": "Cassiopeia",
+      "meaning": "Cassia juice",
+      "starsWithPlanets": 14,
+      "quadrant": "NQ1",
+      "id": "U2iz0wa"
+    },
+    {
+      "name": "Cassiopeia",
+      "meaning": "Cassia juice",
+      "starsWithPlanets": 14,
+      "quadrant": "NQ1",
+      "id": "zu1ODN4"
+    },
+    {
+      "id": "XekIhks"
+    },
+    {
+      "name": "Triangulum",
+      "meaning": "Triangle",
+      "starsWithPlanets": 3,
+      "quadrant": "NQ1",
+      "id": "A8Xaezm"
     }
   ]
 }
